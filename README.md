@@ -2,16 +2,8 @@
 
 - log out
 
-patient:
-- add service
-- change appointment detail
-- cancel appointment
-
-doctor:
-- cancel appt
-- mark certain days as busy
-
-admin:
-- add patients and doctors
-
-
+1. log in
+2. patient can make appt w/ services
+3. Doctor can accept/reject appts
+4. Patient can pay bill
+5. Admin can verify transcations --> after billing is complete, admin approves
